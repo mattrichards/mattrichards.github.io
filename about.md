@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Chardsy is the creation of M. Knight Richards. I am a professional maker of
-software, but before that I was an amateur writer and this site is a means
+Chardsy is the creation of Matthew Knight Richards. I am a professional maker
+of software, but before that I was an amateur writer and this site is a means
 for me to find literature again.
 
 People say that one should write what one knows, so I'm sure computer
