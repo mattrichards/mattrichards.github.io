@@ -14,6 +14,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <!-- This probably should be styled with the post-content class, but
+          that adds too much space between title and the content. -->
+        <div>{{ post.content }}</div>
       </li>
     {% endfor %}
   </ul>
