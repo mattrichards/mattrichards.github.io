@@ -10,7 +10,7 @@ The body hair and broad shoulders gum the works.
 Keep them far away from the bidets as well.
 
 Anything macho, any testosterone,  
-is a trigger. We had to mix Draino with  
+is a trigger. We had to mix Drano with  
 a shot of estrogen after Bill was in.
 
 No trans-masculine or genderfluid stuff  
