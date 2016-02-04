@@ -150,6 +150,11 @@
 .post-link {
     display: block;
     font-size: 24px;
+    color: $text-color;
+
+    &:visited {
+        color: $grey-color;
+    }
 }
 
 
