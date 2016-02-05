@@ -12,6 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.chardsy.com" # the base hostname & protocol for your site
 github_username:  mattrichards
 exclude: [LICENSE]
+timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown
