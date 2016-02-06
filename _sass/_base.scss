@@ -15,6 +15,13 @@ dl, dd, ol, ul, figure {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+
+    // Use a slightly smaller font size on mobile
+    // TODO: These media-query names seem backwards.
+    @include media-query($on-laptop) {
+        font-size: $base-font-size - 1;
+    }
+
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
