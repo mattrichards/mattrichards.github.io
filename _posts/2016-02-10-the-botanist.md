@@ -7,7 +7,7 @@ categories:
 
 He needs the cherry tree to blossom. Right now, it is bare. It's early
 March and his grandkids visit in a week. He's standing on the sidewalk
-wearing a dull yellow shirt, tan slacks, and sneakers that haven't been white
+wearing a dull yellow sweater, tan slacks, and sneakers that haven't been white
 for six years. In his hand is Suze's hair dryer; its black cord is plugged
 into an orange extension cord that is plugged into a green extension cord
 that runs from the back of the garage out to the curb. He is working on the
