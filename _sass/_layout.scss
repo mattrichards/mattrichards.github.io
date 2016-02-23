@@ -198,4 +198,12 @@
             font-size: 18px;
         }
     }
+
+    // I think circles look better than discs with the rest of
+    // the style. HACK: this also makes posts have the same style
+    // as the main page, which has posts already in a list, so any
+    // lists in posts are nested.
+    ul {
+        list-style-type: circle;
+    }
 }
