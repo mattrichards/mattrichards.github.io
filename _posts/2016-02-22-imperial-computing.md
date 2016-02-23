@@ -5,9 +5,9 @@ date:   2016-02-22 09:20:55 -0800
 categories:
 ---
 
-The units we use to measure computers are dry and overly fastidious: the
-kilobyte, the megahertz. They feel metric and, frankly, European, despite
-America's central role in this industry. To rectify this fault, I am proposing
+The units we use to measure computers are dry and overly fastidious: the 
+kilobyte, the megahertz. They feel metric and, frankly, European, despite 
+America's central role in this industry. To rectify this fault, I am proposing 
 a set of Imperial computing units with their own joyous idiosyncrasies.
 
 **Storage**
