@@ -11,7 +11,7 @@ They warned you about them at check-in and, even if they hadn't, you know they a
 
 Glancing over at the nightstand, there's Jennifer Lawrence on the cover of Vanity Fair with another of those damned cockatoos standing on her wrist. She looks to have her wits about her. But this is no time to regard her semi-submerged breasts.
 
-You take a step backwards, almost tripping on the bed. The wooden chair at the desk looks heavy so you grab it and barricade the minibar with it. You're about to rip the non-removable hangers from the closet when one of the birds gets bored and flies off. Then another. The last one locks its right googly eye on you before shaking its wings and soaring off the railing.
+You take a step backwards, almost tripping on the bed. The wooden chair at the desk looks heavy so you grab it and barricade the minibar with it. You're about to rip the non-removable hangers from the closet when one of the birds gets bored and flies off. Then another. The last one locks its right eye on you before shaking its wings and soaring off the railing.
 
 At dusk, you'll learn about the island's colony of huge fruit bats.
 
