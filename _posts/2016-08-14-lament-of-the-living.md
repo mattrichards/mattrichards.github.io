@@ -6,7 +6,7 @@ categories:
 ---
 
 I would miss summer afternoons,   
-the green of mulberry leaves superimposed on the blue of sky  
-if I were dead.  
-I mean, by then I wouldn't really, but  
+the green of mulberry leaves superimposed on the blue of sky   
+if I were dead.   
+I mean, by then I wouldn't really, but   
 for now I fret about it.
