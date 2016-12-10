@@ -21,3 +21,7 @@ to others to share their wisdom about computers.
 
 Chardsy is made using [Jekyll](https://jekyllrb.com/) and hosted on
 [GitHub](https://github.com/).
+
+The site's [favicon](/assets/favicon.png) is based on an
+[image](https://commons.wikimedia.org/wiki/File:Flag_of_Republic_of_Venice.svg)
+of the Most Serene Republic of Venice's flag from Wikimedia Commons.
