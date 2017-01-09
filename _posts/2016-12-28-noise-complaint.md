@@ -13,9 +13,11 @@ categories:
 
 "Is it a '90s party?"
 
-"Did my track suit give it away?" He's waiting at the front door to get into the party.
+"Did my track suit give it away?"
 
-The police officer is waiting to serve the noise complaint. "That and the playlist. It's pretty loud."
+He's waiting at the front door to get into the party. The police officer is waiting to serve the noise complaint.
+
+"That and the playlist. It's pretty loud."
 
 "I guess." He glances down at his Reeboks. "How about I promise to let the DJ know when I get in and you can get back to the warmth of your patrol car?"
 
