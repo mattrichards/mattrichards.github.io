@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.chardsy.com" # the base hostname & protocol for your site
 github_username:  mattrichards
-exclude: [LICENSE, Gemfile, Gemfile.lock]
+exclude: [LICENSE, Gemfile, Gemfile.lock, vendor]
 timezone: America/Los_Angeles
 
 # Build settings
