@@ -16,3 +16,5 @@ timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown
+plugins: [jekyll-paginate]
+paginate: 20

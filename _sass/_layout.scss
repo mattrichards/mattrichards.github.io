@@ -207,3 +207,19 @@
         list-style-type: circle;
     }
 }
+
+/**
+  * Pagination navigation
+  */
+.nav {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.nav-older {
+    float: right;
+}
+
+.nav-newer {
+    float: left;
+}
